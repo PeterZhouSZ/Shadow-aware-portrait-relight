@@ -1,5 +1,5 @@
 # PortraitRelight
-[The code is also under undergoing intellectual property processing]
+
 
 ### We public our implementation in lib. 
 [The code is also under undergoing intellectual property processing]
